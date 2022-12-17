@@ -21,7 +21,7 @@ h1 {
 }
 
 p {
-    color: white;
+    color: white
 }
 
 ul {
@@ -39,9 +39,12 @@ a {
     padding: 15px;
     text-decoration: none;
     display: block;
-    width: 320px;
-    height: 48px;
     border-radius: 5px;
+}
+
+a:hover {
+    background-color: white;
+    color: limegreen;
 }
 
 footer {
